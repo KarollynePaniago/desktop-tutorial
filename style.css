@@ -1,0 +1,40 @@
+.container{
+    text-align:center;
+    background-color:rgb(35, 24, 88);
+    color:white;
+    margin-left:15%;
+    margin-right:15%;
+    margin-top:1%;
+  }
+  body{
+    background-image: url('https://images.unsplash.com/photo-1548426589-b5560481a46e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cm9jayUyMG11c2ljfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  button{
+    flex-direction: row;
+    padding:10px;
+    text-align:center;
+    border-radius:5px;
+    font-family:arial;
+    background-color: rgb(212, 181, 106);
+    font-size:20px;
+  }
+  .info{
+    text-align:left;
+    margin-left:10%;
+  }
+  .secInfo{
+    text-align:left;
+    margin-left:40%;
+    font-size:19px;
+  }
+  #band-img{
+    width:350px;
+    margin-right:60%;
+    margin-top:-13%;
+    margin-bottom:30px;
+  }
+  .bands{
+    margin-top:40px;
+  }
